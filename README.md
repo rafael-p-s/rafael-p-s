@@ -1,66 +1,54 @@
+## Olá, eu sou o Rafael, dev fullstack com foco em JS, mas sempre pesquisando tudo relacionado ao mundo tech! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bem+vindos+ao+meu+Github;++;Fullstack+dev+%3C/%3E;JS+enthusiast;Always+learning+!"></a>
+</p>
+<div align="middle">
 
-&nbsp;&nbsp;&nbsp;
+  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rafael-p-s&show_icons=true&theme=dracula)](https://github.com/rafael-p-s)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-p-s&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell)](https://github.com/rafael-p-s)
+    
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> Software engineer passionate about solving complex problems through technology. I like to balance my career between technical and managerial skills, so I gained experience leading teams, coordinating projects, analyzing and continually improving software, integrating all of this with the fundamentals of agile development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafael-p-s.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
-
-#### Main Stack:
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### Studying in this moment:
-
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-#### Databases:
-
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-
-&nbsp;
-&nbsp;
-
-## Contacts:
-
-
- 
-
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Logo-Js" height="40" width="40" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png">
+  <img align="center" alt="Logo-typescript" height="30" width="30" src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png">
+  <img align="center" alt="Logo-react" height="32" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Logo-nodejs" height="34" width="30" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png">
+  <img align="center" alt="Logo-next" height="32" width="32" src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png">
+  <img align="center" alt="Logo-python" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+  <img align="center" alt="Logo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Logo-nest" height="35" width="34" src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png">
+  <img align="center" alt="Logo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Logo-docker" height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img align="center" alt="Logo-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Logo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Logo-Angular" height="35" width="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png">
+  <img align="center" alt="Logo-tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
+  <img align="center" alt="Logo-Ionic" height="30" width="33" src="https://www.svgrepo.com/show/353912/ionic-icon.svg">
+  <img align="center" alt="Logo-postgresql" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Logo-mongo" height="33" width="32" src="https://www.svgrepo.com/show/331488/mongodb.svg">
   
+  <img align="right" alt="Profile-picture" height="115" src="https://media.licdn.com/dms/image/D4D03AQFlWhQg8v7FbQ/profile-displayphoto-shrink_800_800/0/1695854799718?e=1705536000&v=beta&t=mA8qyYbn-HpEL9IsOjZv0H9VgABRbJF6YBXyk8xYq0s">
+</div>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+  ##
+  
+  <div>
+  <a href="https://www.linkedin.com/in/rafael-prado-e-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+          
