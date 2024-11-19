@@ -24,7 +24,6 @@
 ---
 
 <div align="center">
-  <p><b>🎯 Contribuições Recentes</b></p>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
