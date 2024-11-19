@@ -30,7 +30,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo" />
   <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github-white.svg" height="32" alt="github logo" />
+  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" height="32" alt="github logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="git logo" />
   <img width="8" />
