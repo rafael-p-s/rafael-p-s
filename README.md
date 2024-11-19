@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/rafael-p-s">
-    <img height="180em" src="https://github-readme-activity-graph.cyclic.app/graph?username=rafael-p-s&theme=react&area=true&hide_border=true" alt="Activity Graph" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-p-s&theme=github&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
