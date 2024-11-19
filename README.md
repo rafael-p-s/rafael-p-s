@@ -32,7 +32,7 @@
 ---
 
 <div align="center">
-  <p><b>🌟 Tecnologias que entendo</b></p>
+  <p><b>🌟 Tecnologias que entendo 🌟</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo" />
