@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/rafael-p-s">
-    <img src="https://github-readme-contribs.vercel.app/api?username=rafael-p-s&theme=dracula&count_private=true&hide_border=true" alt="GitHub Contributions" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=rafael-p-s&theme=github&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
