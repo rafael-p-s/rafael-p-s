@@ -24,20 +24,9 @@
 ---
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <a href="https://github.com/rafael-p-s">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rafael-p-s&theme=github&area=true&hide_border=true" alt="GitHub Contributions" />
+  </a>
 </div>
 
 ---
