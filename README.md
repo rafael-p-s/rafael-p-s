@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/rafael-p-s">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-p-s&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-contribs.vercel.app/api?username=rafael-p-s&theme=dracula&count_private=true&hide_border=true" alt="GitHub Contributions" />
   </a>
 </div>
 
