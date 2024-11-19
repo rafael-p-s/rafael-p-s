@@ -1,15 +1,16 @@
 ## Olá, eu sou o Rafael, dev fullstack com foco em JS, mas sempre pesquisando tudo relacionado ao mundo tech! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00ADB5&size=30&center=true&vCenter=true&width=700&lines=Olá,+sou+Rafael+Prado!;Desenvolvedor+Fullstack+%3C%2F%3E;Apaixonado+por+Tecnologia;Sempre+aprendendo+novidades!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00ADB5&size=30&center=true&vCenter=true&width=700&lines=Olá,+sou+Rafael+Prado!;Desenvolvedor+Fullstack+%3C/%3E;Apaixonado+por+Tecnologia;Sempre+aprendendo+novidades!+🚀" alt="Typing SVG">
 </p>
 
 <div align="center">
+  <p><b>🌟 Minhas Estatísticas</b></p>
   <a href="https://github.com/rafael-p-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-p-s&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-p-s&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/rafael-p-s">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-p-s&layout=compact&theme=radical&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell" alt="Top Langs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-p-s&layout=compact&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,makefile,shell" alt="Top Langs"/>
   </a>
 </div>
 
