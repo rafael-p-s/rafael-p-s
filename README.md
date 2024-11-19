@@ -16,7 +16,6 @@
 ---
 
 <div align="center">
-  <p><b>🏆 Conquistas</b></p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rafael-p-s&theme=onedark&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
@@ -45,12 +44,7 @@
 ---
 
 <div align="center">
-  <p><b>🌟 Tecnologias que domino</b></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,docker,vscode" alt="Tech Stack" />
-</div>
-
-
-<div align="center">
+  <p><b>🌟 Tecnologias que entendo</b></p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="figma logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" alt="vscode logo" />
@@ -96,7 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="32" alt="mongoose logo" />
   <img width="8" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="32" alt="tailwindcss logo" />
-
 </div>
 
 
