@@ -1,4 +1,4 @@
-## Olá, eu sou o Rafael, dev fullstack com foco em JS, mas sempre pesquisando tudo relacionado ao mundo tech! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+## Olá, eu sou o Rafael, dev fullstack com foco em JS, atualmente fazendo MBA em Ciência de Dados e Big Data Analytics. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00ADB5&size=30&center=true&vCenter=true&width=700&lines=Olá,+sou+Rafael+Prado!;Desenvolvedor+Fullstack+%3C%2F%3E;Apaixonado+por+Tecnologia;Sempre+aprendendo+novidades!+🚀" alt="Typing SVG">
